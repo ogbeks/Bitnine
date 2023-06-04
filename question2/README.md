@@ -1,7 +1,7 @@
 # Bitnine
 # Question 2 Attempt
 
-Following the Question 2 objective, I made use of Apache NetBean 18 development environment to write and build the source code.
+Following the Question 2 objective, I made use of VScode & Apache NetBean 18 development environment to write and build the source code.
 
 The code was compile using gcc compiler which is one of the popular compiler used for C/C++ programming.
 
